@@ -1,2 +1,2 @@
-# Simon Game
-Made by Mohammad Sibtain
+#Simon Game
+made by Mohammad Sibtain Raza
